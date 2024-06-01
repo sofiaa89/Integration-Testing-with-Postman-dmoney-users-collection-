@@ -26,7 +26,7 @@
 - ```git clone <repo url>```
 - ```npm i```
 - add the .env file (have to directly request the author for this file)
-- ```node report.js```
+- ```node report.js``` or ```npm test```
 
 
 
